@@ -1,0 +1,8 @@
+<h1> Guess the ticker game </h1>
+
+<h3>Company: <%= @symbol[1] %></h3>
+<form action='/game' method='post'>
+	<label for='ticker'>Ticker:</label>
+	<input type='text' id='ticker' name="<%= @symbol[1] %>" />
+	<input type='submit' />
+</form>

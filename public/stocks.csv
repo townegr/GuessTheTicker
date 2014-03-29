@@ -1,0 +1,99 @@
+ticker,company
+AAPL,Apple
+ABBV,AbbVie
+ABT,Abbott Laboratories
+ACN,Accenture
+AEP,American Electric
+AIG,American International Group
+ALL,Allstate
+AMGN,Amgen
+AMZN,Amazon.com
+APA,Apache
+APC,Anadarko Petroleum Corp
+AXP,American Express
+BA,Boeing
+BAC,Bank of America
+BAX,Baxter International
+BK,Bank of New York
+BMY,Bristol-Myers Squibb
+C,Citigroup
+CAT,Caterpillar
+CL,Colgate-Palmolive
+CMCSA,Comcast
+COF,Capital One Financial
+COP,ConocoPhillips
+COST,Costco
+CSCO,Cisco Systems
+CVS,CVS Caremark
+CVX,Chevron
+DD,DuPont
+DIS,Walt Disney
+DOW,Dow Chemical
+DVN,Devon Energy
+EBAY,eBay
+EMC,EMC
+EMR,Emerson Electric
+EXC,Exelon
+F,Ford Motor
+FB,Facebook
+FCX,Freeport-McMoran
+FDX,FedEx
+FOXA,Twenty-First Century Fox
+GD,General Dynamics
+GE,General Electric
+GILD,Gilead Sciences
+GM,General Motors
+GOOG,Google
+GS,Goldman Sachs
+HAL,Halliburton
+HD,Home Depot
+HON,Honeywell International
+HPQ,Hewlett-Packard
+IBM,International Business Machines
+INTC,Intel Corporation
+JNJ,Johnson & Johnson
+JPM,JP Morgan Chase & Co
+KO,Coca-Cola
+LLY,Eli Lilly
+LMT,Lockheed Martin
+LOW,Lowe's
+MA,Mastercard
+MCD,McDonald's
+MDLZ,Mondelez International
+MDT,Medtronic
+MET,MetLife
+MMM,3M Company
+MO,Altria Group
+MON,Monsanto Company
+MRK,Merck & Co
+MSFT,Microsoft
+NKE,Nike
+NOV,National Oilwell Varco
+NSC,Norfolk Southern Corp
+ORCL,Oracle
+OXY,Occidental Petrol
+PEP,Pepsico
+PFE,Pfizer
+PG,Procter & Gamble
+PM,Philip Morris
+QCOM,QUALCOMM
+RTN,Raytheon
+SBUX,Starbucks
+SLB,Schlumberger
+SO,Southern Company
+SPG,Simon Property Group
+T,AT&T
+TGT,Target
+TWX,Time Warner
+TXN,Texas Instruments
+UNH,UnitedHealth Group
+UNP,Union Pacific
+UPS,United Parcel Ser
+USB,U.S. Bancorp
+UTX,United Technologies
+V,Visa
+VZ,Verizon
+WAG,Walgreens
+WFC,Wells Fargo
+WMT,Wal-Mart
+XOM,Exxon Mobil
